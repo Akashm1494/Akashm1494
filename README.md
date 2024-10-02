@@ -38,10 +38,6 @@ Welcome to my GitHub profile! I’m a passionate full stack developer with exper
 
 ---
 
-### 📈 GitHub Stats
-
-/*![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashm1494&show_icons=true&theme=radical)*/
-
 ---
 
 ### 🔗 Let's Connect

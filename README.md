@@ -43,6 +43,6 @@ Welcome to my GitHub profile! I’m a passionate full stack developer with exper
 ### 🔗 Let's Connect
 
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-url)
-- **Email**: [your-email@example.com](mailto:more.akash0797@gmail.com)
+- **Email**: [more.akash0797@gmail.com](mailto:more.akash0797@gmail.com)
 
 Thanks for visiting my profile! 😊

@@ -1,5 +1,5 @@
 # 🚀 Akash More | Full Stack Developer  
-📍 Pune, India | 📧 more.akash0797@gmail.com | 🌐 [Portfolio](https://kali2498.github.io/)  
+📍 Pune, India | 📧 more.akash0797@gmail.com | 🌐 [Portfolio](https://akashm1494.github.io/) | 🌐 [Resume](https://drive.google.com/file/d/1w0D_H6ZtV7p_Gt9aM4arIz5r2AYUUu7z/view?usp=sharing)  
 
 ## 💡 About Me  
 I’m a **Full Stack Developer** with **1+ year of experience** in building scalable web and mobile applications. My expertise lies in:  

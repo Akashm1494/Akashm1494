@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with **1+ years of experience** building scalable web and mobile applications. I love creating solutions that make a difference and am always excited to learn new technologies!
+I'm a passionate **Full Stack Developer** with **2+ years of experience** building scalable web and mobile applications. I love creating solutions that make a difference and am always excited to learn new technologies!
 
 📍 **Location:** Pune, India  
 📧 **Email:** [more.akash0797@gmail.com](mailto:more.akash0797@gmail.com)  

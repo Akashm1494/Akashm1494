@@ -11,7 +11,7 @@ I'm a passionate **Full Stack Developer** with **2+ years of experience** buildi
 📍 **Location:** Pune, India  
 📧 **Email:** [more.akash0797@gmail.com](mailto:more.akash0797@gmail.com)  
 🌐 **Portfolio:** [akashm1494.github.io](https://akashm1494.github.io/)  
-📄 **Resume:** [View Resume](https://akashm1494.github.io/) 
+📄 **Resume:** [View Resume]([https://akashm1494.github.io/](https://drive.google.com/file/d/1sJna31oHOJMm6chchvMNa5ujGFrVD3it/view?usp=sharing)) 
 
 ---
 

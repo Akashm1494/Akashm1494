@@ -98,7 +98,7 @@ Git, GitHub, Postman, Figma, Expo
 ## 🤝 Let's Connect
 
 [Portfolio](https://akashm1494.github.io/) |
-[LinkedIn](https://linkedin.com/in/akash-more) |
+[LinkedIn](https://www.linkedin.com/in/code-with-akash/) |
 [GitHub](https://github.com/Akashm1494)
 
 ---

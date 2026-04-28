@@ -20,7 +20,7 @@ Focused on **clean UI, scalability & performance optimization**.
 📍 India
 📧 [more.akash0797@gmail.com](mailto:more.akash0797@gmail.com)
 🌐 Portfolio: https://akashm1494.github.io/
-📄 Resume: 🔗 [Akash_More_Resume (View PDF)](https://drive.google.com/file/d/1l7WyX4kjlPl6FZ5aQECRPlOB798xLzyG/view?usp=sharing)
+📄 Resume: 🔗 [Akash_More_Resume (View PDF)](https://drive.google.com/file/d/1leZyAEOll9IbAI2JfODJWVRd4E1Mtw_O/view?usp=sharing)
 ---
 
 ## 🚀 What I Do
